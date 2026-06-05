@@ -8,6 +8,6 @@
   font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
   color: var(--text); background: var(--bg);
 }
-body { min-height: 100vh; overflow: hidden; }
+body { min-height: 100vh; }
 pre, code { font-family: 'JetBrains Mono', 'Cascadia Code', 'Fira Code', monospace; }
 button { font-family: inherit; }
