@@ -18,6 +18,6 @@ Create a new service in Coolify:
 - **Type**: Static Site (or Nixpacks)
 - **Build command**: `pnpm install && pnpm build`
 - **Output directory**: `dist`
-- **Node version**: 20+
+- **Node version**: 22.12+ (auto-detected from `.nvmrc` and `package.json` engines)
 
 Push to this repo — Coolify auto-deploys on push.
